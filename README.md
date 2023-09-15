@@ -2,7 +2,7 @@
 Submodule Parent
 
 # Updates
-update1
+update2
 
 ## Notes for git commands to manage project with submodules within submodules
 # new
